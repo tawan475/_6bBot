@@ -1,0 +1,13 @@
+{
+  "name": "invalidbot",
+  "version": "1.2.0",
+  "description": "",
+  "main": "invalidbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tawan475",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^2.9.6"  }
+}
